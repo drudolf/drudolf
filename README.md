@@ -1,4 +1,4 @@
-## Dirk Rudolf // Berlin
+## Dirk Matthias Rudolf // Berlin
 
 Fullstack TypeScript engineer. Production systems end-to-end — React 
 frontends, Fastify APIs, Prisma data layers, and the AI tooling and MCP 
@@ -23,4 +23,4 @@ Backend architecture, API design, TypeScript/Node.js infrastructure,
 AI integration — building something that needs to work reliably at 
 scale? Let's talk.
 
-📬 [LinkedIn](https://www.linkedin.com/in/dirk-rudolf-414456107)
+📬 [LinkedIn](https://www.linkedin.com/in/dirk-matthias-rudolf/)
