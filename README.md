@@ -24,3 +24,5 @@ AI integration — building something that needs to work reliably at
 scale? Let's talk.
 
 📬 [LinkedIn](https://www.linkedin.com/in/dirk-matthias-rudolf/)
+
+📄 CV: [English](cv-rudolf-en.md) · [PDF](cv-rudolf-en.pdf) · [Deutsch](cv-rudolf-de.md) · [PDF](cv-rudolf-de.pdf)
