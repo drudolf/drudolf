@@ -27,5 +27,5 @@ scale? Let's talk.
 
 ### CV / Resume
 
-[English](cv-rudolf-en.md) · [PDF](cv-rudolf-en.pdf)  
-[Deutsch](cv-rudolf-de.md) · [PDF](cv-rudolf-de.pdf)
+[English](cv-rudolf-en.md) · [PDF](https://drudolf.github.io/cv-rudolf-en.pdf)  
+[Deutsch](cv-rudolf-de.md) · [PDF](https://drudolf.github.io/cv-rudolf-de.pdf)
