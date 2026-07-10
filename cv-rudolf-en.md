@@ -17,7 +17,7 @@ German (Native) · English (Fluent)
 ## Skills
 
 | Web Development | Smart TV Apps | Technical Project Management |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | TypeScript | Tizen | AI Tooling / MCP |
 | React | webOS | Agile Methods (Scrum, Kanban) |
 | Node.js / Fastify | HbbTV | Test-Driven Development |

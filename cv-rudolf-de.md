@@ -17,7 +17,7 @@ Deutsch (Muttersprache) · Englisch (Fließend)
 ## Fähigkeiten
 
 | Webentwicklung | Smart-TV Apps | Technisches Projektmanagement |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | TypeScript | Tizen | KI-Tooling / MCP |
 | React | webOS | Agile Methoden (Scrum, Kanban) |
 | Node.js / Fastify | HbbTV | Testgetriebene Entwicklung |
