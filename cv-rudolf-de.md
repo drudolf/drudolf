@@ -97,7 +97,7 @@ kompatibel mit Vitest und Jest.
 
 ### [fastify-lor-zod](https://github.com/drudolf/fastify-lor-zod)
 
-Typ-Provider für das Fastify-API-Framework mit Zod-Schema Validierung
+Type-Provider für das Fastify-API-Framework mit Zod Schemavalidierung
 
 Typsichere Validierung von Requests und Responses sowie automatische
 API-Dokumentation (OpenAPI/Swagger) auf Grundlage einer gemeinsamen
