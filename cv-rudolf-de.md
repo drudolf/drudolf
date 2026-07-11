@@ -1,10 +1,10 @@
 # Dirk Matthias Rudolf
 
-Freelance TypeScript Fullstack Engineer  
+Freelance TypeScript Full-Stack Engineer  
 Diplom-Informatiker (FH) · Master of Science
 
-Freiberuflich seit 2007 · von 2011 bis 2015 Technical Director,
-meta.morph Medien GmbH
+Freiberuflich seit 2007 · Technical Director bei meta.morph Medien GmbH
+(2011–2015)
 
 Berlin  
 [linkedin.com/in/dirk-matthias-rudolf](https://linkedin.com/in/dirk-matthias-rudolf)  
@@ -12,75 +12,80 @@ Berlin
 
 Deutsch (Muttersprache) · Englisch (Fließend)
 
+Seit 2007 freiberuflich als TypeScript Full-Stack Engineer tätig, mit
+Fokus auf skalierbare Webanwendungen, API-Design und
+Datenbankarchitektur. Integration von KI-Tooling und MCP als Teil des
+Entwicklungsprozesses, mit Hintergrund in Video- und
+Streaming-Entwicklung. Technisch eigenverantwortlich in Solo- und
+Teamprojekten.
+
 ---
 
 ## Fähigkeiten
 
-| Webentwicklung | Smart-TV Apps | Technisches Projektmanagement |
+| Webentwicklung | Video & Streaming | Technisches Projektmanagement |
 | :--- | :--- | :--- |
-| TypeScript | Tizen | KI-Tooling / MCP |
-| React | webOS | Agile Methoden (Scrum, Kanban) |
+| TypeScript | Samsung (Tizen, Orsay) | KI-Tooling / MCP |
+| React | LG (webOS, NetCast) | Agile Methoden (Scrum, Kanban) |
 | Node.js / Fastify | HbbTV | Testgetriebene Entwicklung |
-| Prisma / PostgreSQL | Video-Streaming | Continuous Integration |
+| Prisma / PostgreSQL | Multiplattform | Continuous Integration |
 
 
 ---
 
 ## Projekte
 
-### 2023–2026 · Webentwicklung — Frontend/Backend
+### 2023–2026 · Webentwicklung — Full-Stack
 
 Entwicklung einer modularen Toolsuite zur Verwaltung von Creatives,
-Publishers und Targeting, im Team umgesetzt, von Datenbankschema und
-API-Design bis zur SPA-Architektur. Umsetzung mit TypeScript, React,
-Node.js, Fastify, Prisma und PostgreSQL.
+Publishern und Targeting, von Datenbankschema und API-Design bis zur
+SPA-Architektur. Im Team umgesetzt mit TypeScript, React, Node.js,
+Fastify, Prisma und PostgreSQL.
 
-#### Smart-TV — Live-TV Applikation
+#### Live-TV-Applikation — Frontend
 
-Technische Gesamtverantwortung für eine Live-TV-Streaming-Applikation
-auf Tizen und webOS, von der Architektur bis zur Implementierung,
-umgesetzt mit TypeScript und HLS.js.
+Technische Gesamtverantwortung für eine Live-TV-Applikation auf Tizen
+und webOS, von der Architektur bis zur Umsetzung, mit TypeScript und
+HLS.js.
 
 ---
 
-### 2020–2023 · Smart-TV — Mediathek
+### 2020–2023 · Mediathek — Full-Stack
 
-Betreuung einer Mediathek im Agentur-Team auf verschiedenen
-Smart-TV-Plattformen (HbbTV, Tizen, webOS, NetCast, Orsay u. a.).
-Herstellerspezifische Fehleranalyse, Plattformupdates, Weiter- und
-Neuentwicklung von Funktionalitäten sowie Releasekoordination.
+Weiterentwicklung und Betreuung einer Medienplattform im Agentur-Team
+auf HbbTV, Tizen, webOS, NetCast, Orsay u. a., verantwortlich für
+herstellerspezifische Fehleranalyse, Plattformupdates,
+Feature-Entwicklung und Releasekoordination.
 
-#### Smart-TV — Neuentwicklung Mediathek
+#### Mediathek (Neuentwicklung) — Full-Stack
 
-Neuentwicklung des gesamten Stacks auf TypeScript, React und Node.js,
+Neuentwicklung des gesamten Stacks in TypeScript, React und Node.js,
 Rollout auf HbbTV, Samsung (Tizen), LG (webOS) sowie Panasonic, Philips,
 Sony, Foxxum und Hisense.
 
-Technisch herausfordernd: Codebase mit plattformspezifischen Anpassungen
-für acht Hersteller, DASH-Live-Streams mit Restart-Funktion (Timeshift),
-VOD sowie Untertitel- und Mehrspurton-Unterstützung (Barrierefreiheit).
-Manuelle Tests auf physischen Geräten, ergänzt durch
-plattformübergreifende Regressionstests mit Jest.
+Gemeinsame TypeScript/React-Codebase mit herstellerspezifischen
+Anpassungen für acht Hersteller, mit DASH-Live-Streams, Timeshift, VOD,
+Untertiteln und Mehrspurton. Getestet auf physischen Geräten und mit
+plattformübergreifenden Jest-Regressionstests.
 
 ---
 
-### 2015–2020 · Smart-TV — Streaming-Plattform
+### 2015–2020 · Streaming-Plattform — Frontend
 
-Federführende Multiplattform-Portierung einer Live-Streaming-Applikation
-auf Samsung (Orsay, Tizen) und LG (NetCast, webOS) mit JavaScript,
-Backbone.js und DASH/HLS.
+Federführende Portierung einer Live-Streaming-Applikation auf Samsung
+(Orsay, Tizen) und LG (NetCast, webOS) mit JavaScript, Backbone.js und
+DASH/HLS.
 
-#### Smart-TV — Neuentwicklung Streaming Plattform (Multi-Tenant)
+#### Streaming-Plattform (Neuentwicklung) — Frontend
 
-Neuentwicklung als TypeScript/React-Plattform für acht Marken auf fünf
-TV-Plattformen (Tizen, webOS, Panasonic, Set-Top-Box u. a.), im Team
-entwickelt.
+Neuentwicklung als TypeScript/React-Plattform für acht Hersteller auf
+fünf TV-Plattformen (Tizen, webOS, Panasonic, Set-Top-Box u. a.), im
+Team entwickelt.
 
-Technisch herausfordernd: TV-Navigation via 5-Tasten-Fernbedienung mit
-Focus-Management in React, Vereinheitlichung unterschiedlicher
-Kundenanforderungen und Plattformspezifika in einer gemeinsamen
-Codebase, performante Videowiedergabe auf allen unterstützten Geräten.
-Umsetzung mit TypeScript, React und DASH.
+Entwicklung einer gemeinsamen TypeScript/React-Codebase für acht
+Hersteller, mit TV-Navigation via 5-Tasten und Focus-Management in
+React, performanter DASH-Videowiedergabe auf allen Geräten sowie
+Vereinheitlichung unterschiedlicher Kundenanforderungen.
 
 ---
 
@@ -99,7 +104,7 @@ kompatibel mit Vitest und Jest.
 
 Type-Provider für das Fastify-API-Framework mit Zod Schemavalidierung
 
-Typsichere Validierung von Requests und Responses sowie automatische
-API-Dokumentation (OpenAPI/Swagger) auf Grundlage einer gemeinsamen
+Typsichere Request/Response-Validierung und automatische
+API-Dokumentation (OpenAPI/Swagger) aus einer gemeinsamen
 Schemadefinition. Neuentwicklung in TypeScript mit vollständiger
-Zod-v4-Unterstützung und Verbesserungen im OpenAPI-Export.
+Zod-v4-Unterstützung und verbessertem OpenAPI-Export.
